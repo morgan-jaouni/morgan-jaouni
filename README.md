@@ -6,7 +6,7 @@
         <td>
           <div align="center">
             <h3>Current</h3>
-            <sub>MongoDB, Express, Node</sub>
+            <sub>Deposit, Withdraw. Send money to friends. (MongoDB, Express, Node)</sub>
             <sub><hr></sub>
           </div>
           <a href="https://rocky-anchorage-99030.herokuapp.com/" target="_blank">
@@ -49,7 +49,7 @@
         <td style="background: none;">
           <div align="center">
             <h3>Blackjack</h3>
-            <sub>JS, React, HTML, CSS</sub>
+            <sub>A classic card game. (JavaScript, React, HTML, CSS)</sub>
             <sub><hr></sub>
           </div>
           <a href="https://morgan-jaouni.github.io/Black-jack/" target="_blank">
