@@ -5,6 +5,23 @@
       <tr>
         <td>
           <div align="center">
+            <h3>Portfolio</h3>
+            <sub>Check out my projects! </sub>
+            <sub><hr></sub>
+          </div>
+          <a href="https://morgan-jaouni.github.io/ReactPortfolio/" target="_blank">
+            <img
+              alt=""
+              src="https://github.com/morgan-jaouni/ReactPortfolio/blob/main/my-app/public/Portfolio.png?raw=true"
+            />
+          </a>
+        </td>
+        <div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+      <tr>
+        <td>
+          <div align="center">
             <h3>Current</h3>
             <sub>MongoDB, Express, Node</sub>
             <sub><hr></sub>
