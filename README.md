@@ -6,7 +6,7 @@
         <td>
           <div align="center">
             <h3>Portfolio</h3>
-            <sub>Check out my projects! </sub>
+            <sub>Take a look at my projects! </sub>
             <sub><hr></sub>
           </div>
           <a href="https://morgan-jaouni.github.io/ReactPortfolio/" target="_blank">
